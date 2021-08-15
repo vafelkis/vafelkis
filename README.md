@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notStrixx
+- 👋 Hi, I’m @vafelkis
 - 👀 I’m interested in coding, C#, JavaScript and Python.
 - 🌱 I’m currently learning C#, will learn JavaScript, C++, Java and Python
 - 💞️ I’m looking to collaborate on nothing yet.
