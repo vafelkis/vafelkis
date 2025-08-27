@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vafelkis
-- 👀 I’m interested in coding, C#, JavaScript and Python.
-- 🌱 I’m currently learning C#, will learn JavaScript, C++, Java and Python
-- 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me: don't.
+- 👋 hi, i must be @vafelkis, i think?
+- 👀 currently developing vafelkis.github.io and boat on github
+- 🌱 languages: c++, python, javascript, html, css
+- 💞️ for inquiries, check vafelkis.github.io
+- 📫 please do not contact for nothing 🙄
