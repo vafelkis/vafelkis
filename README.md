@@ -1,5 +1,5 @@
 - 👋 hi, i must be @vafelkis, i think?
 - 👀 currently developing vafelkis.github.io and boat on github
-- 🌱 languages: c++, python, javascript, html, css
+- 🌱 languages: c++, python, javascript, html, css, ctiktactoe
 - 💞️ for inquiries, check vafelkis.github.io
 - 📫 please do not contact for nothing 🙄
