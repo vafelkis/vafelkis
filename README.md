@@ -3,3 +3,4 @@
 - 🌱 languages: c++, python, javascript, html, css, ctiktactoe
 - 💞️ for inquiries, check vafelkis.github.io
 - 📫 please do not contact for nothing 🙄
+- 🍻 live, laugh, love, drink katvodka or wateva 😊
